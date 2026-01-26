@@ -1,6 +1,6 @@
-# 👋 Hi, I'm an Automation & DevOps Enthusiast  
+# 👋 Hi, I'm an Programmer & Tech Enthusiast  
 
-💻 Automation Engineer | 🚀 DevOps Learner | 🐧 Linux   
+💻 Automation Engineer | 🚀 DevOps Learner | AI&ML Learner   
 🔧 Passionate about Python, Selenium & RPA skilled in automation solutions, Python scripting, RPA tools & web automation, with strong engineering foundation and hands-on project experience driving workflow efficiency  
 
 ---
